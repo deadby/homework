@@ -43,7 +43,7 @@
 			好看的图片来了。。<img src = "新建文件夹/936d36f7248a8660ec88bf58e9dae635.jpg"><br/>
 			好看的图片来了。。<img src = "新建文件夹/936d36f7248a8660ec88bf58e9dae635.jpg"><br/>
 			好看的图片来了。。<img src = "新建文件夹/936d36f7248a8660ec88bf58e9dae635.jpg"><br/>
-			好看的图片来了。。<img src = "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=564134909,2221026959&fm=23&gp=0.jpg"><br/>
+			好看的图片来了。。<img style = "position:absolute;left:300px" src = "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=564134909,2221026959&fm=23&gp=0.jpg"><br/>
 			好看的图片来了。。<img src = "新建文件夹/936d36f7248a8660ec88bf58e9dae635.jpg"><br/>
 			好看的图片来了。。<img src = "新建文件夹/936d36f7248a8660ec88bf58e9dae635.jpg"><br/>
 			好看的图片来了。。<img src = "新建文件夹/936d36f7248a8660ec88bf58e9dae635.jpg"><br/>
